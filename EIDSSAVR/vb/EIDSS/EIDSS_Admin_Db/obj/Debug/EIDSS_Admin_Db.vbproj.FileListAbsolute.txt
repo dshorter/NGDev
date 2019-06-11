@@ -1,0 +1,7 @@
+C:\NGDev\EIDSS61\eidss.main\bin\Debug\eidss_admin_db.dll
+C:\NGDev\EIDSS61\eidss.main\bin\Debug\eidss_admin_db.pdb
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Admin_Db\obj\Debug\eidss_admin_db.dll
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Admin_Db\obj\Debug\eidss_admin_db.pdb
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Admin_Db\obj\Debug\EIDSS_Admin_Db.vbprojAssemblyReference.cache
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Admin_Db\obj\Debug\EIDSS_Admin_Db.vbproj.CoreCompileInputs.cache
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Admin_Db\obj\Debug\EIDSS_Admin_Db.vbproj.CopyComplete

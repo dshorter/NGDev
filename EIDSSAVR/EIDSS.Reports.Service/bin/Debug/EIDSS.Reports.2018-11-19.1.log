@@ -1,0 +1,260 @@
+10/18/2018 10:56:56 AM WCF Service Call (EIDSS.Reports  Verbose) 
+  Message: ExportVeterinarySummaryAZ(Language:en, Format:Pdf, ArchiveMode:ActualOnly, Organization:49180000000, User:52593260000000 Start=10/18/2018 12:00:00 AM, End=10/18/2018 12:00:00 AM, ) 
+  Thread: (ID = 7680; Name = )
+  Extended Properties: 
+
+10/25/2018 8:48:59 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 8120; Name = )
+  Extended Properties: 
+
+10/25/2018 8:49:14 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 8120; Name = )
+  Extended Properties: 
+
+10/25/2018 8:49:27 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 8120; Name = )
+  Extended Properties: 
+
+10/25/2018 8:49:33 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 8120; Name = )
+  Extended Properties: 
+
+10/25/2018 8:49:33 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 8120; Name = )
+  Extended Properties: 
+
+10/30/2018 11:24:10 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 7696; Name = )
+  Extended Properties: 
+
+10/30/2018 11:24:28 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 7696; Name = )
+  Extended Properties: 
+
+10/30/2018 11:24:39 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 7696; Name = )
+  Extended Properties: 
+
+10/30/2018 11:24:52 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 7696; Name = )
+  Extended Properties: 
+
+10/30/2018 11:24:52 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 7696; Name = )
+  Extended Properties: 
+
+10/30/2018 11:37:28 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 7524; Name = )
+  Extended Properties: 
+
+10/30/2018 11:37:35 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 7524; Name = )
+  Extended Properties: 
+
+10/30/2018 11:37:46 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 7524; Name = )
+  Extended Properties: 
+
+10/30/2018 11:38:00 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 7524; Name = )
+  Extended Properties: 
+
+10/30/2018 11:38:00 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 7524; Name = )
+  Extended Properties: 
+
+10/31/2018 10:09:24 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 6816; Name = )
+  Extended Properties: 
+
+10/31/2018 10:09:28 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 6816; Name = )
+  Extended Properties: 
+
+10/31/2018 10:09:49 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 6816; Name = )
+  Extended Properties: 
+
+10/31/2018 10:09:54 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 6816; Name = )
+  Extended Properties: 
+
+10/31/2018 10:09:54 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 6816; Name = )
+  Extended Properties: 
+
+10/31/2018 10:59:32 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 6288; Name = )
+  Extended Properties: 
+
+10/31/2018 10:59:42 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 6288; Name = )
+  Extended Properties: 
+
+10/31/2018 10:59:58 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 6288; Name = )
+  Extended Properties: 
+
+10/31/2018 11:00:09 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 6288; Name = )
+  Extended Properties: 
+
+10/31/2018 11:00:09 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 6288; Name = )
+  Extended Properties: 
+
+11/1/2018 9:31:05 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 6364; Name = )
+  Extended Properties: 
+
+11/1/2018 9:31:08 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 6364; Name = )
+  Extended Properties: 
+
+11/1/2018 9:31:10 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 6364; Name = )
+  Extended Properties: 
+
+11/1/2018 9:31:11 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 6364; Name = )
+  Extended Properties: 
+
+11/1/2018 9:31:11 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 6364; Name = )
+  Extended Properties: 
+
+11/1/2018 1:17:34 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Closed 
+  Thread: (ID = 17848; Name = )
+  Extended Properties: 
+
+11/1/2018 1:17:34 PM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Stopped. 
+  Thread: (ID = 17848; Name = )
+  Extended Properties: 
+
+11/6/2018 12:02:50 PM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 18552; Name = )
+  Extended Properties: 
+
+11/6/2018 12:02:50 PM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 18552; Name = )
+  Extended Properties: 
+
+11/6/2018 12:02:51 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 18552; Name = )
+  Extended Properties: 
+
+11/6/2018 12:02:51 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 18552; Name = )
+  Extended Properties: 
+
+11/6/2018 12:02:51 PM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 18552; Name = )
+  Extended Properties: 
+
+11/6/2018 12:10:56 PM WCF Service Call (EIDSS.Reports  Verbose) 
+  Message: ExportHumNumberOfCasesDeathsMonthTH(Language:en, Format:Pdf, ArchiveMode:ActualOnly, Organization:57000510000000, User:57010180000000 Year=2018, Regions=, Zones = ZONE:00, Diagnoses=, Case Classification=, Provinces = , ) 
+  Thread: (ID = 7664; Name = )
+  Extended Properties: 
+
+11/6/2018 12:11:20 PM WCF Service Call (EIDSS.Reports  Verbose) 
+  Message: ExportHumNumberOfCasesDeathsMonthTH(Language:en, Format:Pdf, ArchiveMode:ActualOnly, Organization:57000510000000, User:57010180000000 Year=2018, Regions=, Zones = ZONE:00, ZONE:01, ZONE:02, ZONE:03, ZONE:04, ZONE:05, ZONE:06, ZONE:07, ZONE:08, ZONE:09, ZONE:10, ZONE:11, ZONE:12, Diagnoses=, Case Classification=, Provinces = , ) 
+  Thread: (ID = 7664; Name = )
+  Extended Properties: 
+
+11/6/2018 12:11:33 PM WCF Service Call (EIDSS.Reports  Verbose) 
+  Message: ExportHumNumberOfCasesDeathsMonthTH(Language:en, Format:Pdf, ArchiveMode:ActualOnly, Organization:57000510000000, User:57010180000000 Year=2018, Regions=, Zones = , Diagnoses=Acute Diarrhoea, Acute flaccid paralysis, Acute hepatitis A, Acute hepatitis B, Acute hepatitis C, Acute hepatitis E, Acute poliomyelitis, Adverse event following immunization, Amoebiasis, Anogential (venereal) warts, Anthrax, Botulism, Brucellosis, Chancroid, Chemical toxic effect, Chickenpox (Varicella), Chikungunya, Cholera, Dengue fever, Dengue haemorrhagic fever, Dengue hemorrhagic fever with shock, Diphtheria, Encephalitis, Fever of unknown origin, Filariasis, Food poisoning, Gases, fumes and vapours toxic effect, Gonorrhea, Hand Foot and Mouth, Heat stroke, Herpesviral infection of genitalia and urogenital tract, Influenza, Japanese encephalitis, Lead toxic effect, Legionnaire, Leptospirosis, Lymphogranuloma (venereum) and unspecified VD, Malaria, Measles, Measles with complication, Melioidosis, Meningitis, Meningococcal infection, Mumps, Mushroom poisoning, Nonspecific urethritis, Other STIs, Paratyphoid, Pertussis, Pneumoconiosis, Pneumonia, Rabies, Rubella, Scarlet fever, Shigellosis, Snake bite, Streptococcus suis, Syphilis, Tetanus, Tetanus neonatorum, Toxic effect of metals, Toxic effect of petroleum and organic solvents, Trichinellosis, Tuberculosis, Typhoid fever / Enteric fever, Typhus fever, Viral conjunctivitis, Viral hepatitis, Visceral leishmaniasis, Case Classification=, Provinces = , ) 
+  Thread: (ID = 7664; Name = )
+  Extended Properties: 
+
+11/6/2018 12:13:05 PM WCF Service Call (EIDSS.Reports  Verbose) 
+  Message: ExportHumNumberOfCasesDeathsMonthTH(Language:en, Format:Pdf, ArchiveMode:ActualOnly, Organization:57000510000000, User:57010180000000 Year=2018, Regions=, Zones = , Diagnoses=Acute Diarrhoea, Case Classification=, Provinces = Amnat Charoen, Ang Thong, Bangkok, Bueng Kan, Buri Ram, Chachoengsao, Chai Nat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chon Buri, Chumphon, Kalasin, Kamphaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Lampang, Lamphun, Loei, Lop Buri, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan, Narathiwat, Nong Bua Lam Phu, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phang-nga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayutthaya, Phrae, Phuket, Prachin Buri, Prachuap Khiri Khan, Ranong, Ratchaburi, Rayong, Roi Et, Sa kaeo, Sakon Nakhon, Samut Prakarn, Samut Sakhon, Samut Songkhram, Saraburi, Satun, Si Sa Ket, Sing Buri, Songkhla, Sukhothai, Suphan Buri, Surat Thani, Surin, Tak, Trang, Trat, Ubon Ratchathani, Udon Thani, Uthai Thani, Uttaradit, Yala, Yasothon, ) 
+  Thread: (ID = 7664; Name = )
+  Extended Properties: 
+
+11/14/2018 5:47:01 PM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 8064; Name = )
+  Extended Properties: 
+
+11/14/2018 5:47:09 PM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 8064; Name = )
+  Extended Properties: 
+
+11/14/2018 5:47:24 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 8064; Name = )
+  Extended Properties: 
+
+11/14/2018 5:47:28 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 8064; Name = )
+  Extended Properties: 
+
+11/14/2018 5:47:28 PM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 8064; Name = )
+  Extended Properties: 
+
+11/16/2018 12:00:55 PM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 8152; Name = )
+  Extended Properties: 
+
+11/16/2018 12:01:08 PM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 8152; Name = )
+  Extended Properties: 
+
+11/16/2018 12:01:27 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 8152; Name = )
+  Extended Properties: 
+
+11/16/2018 12:01:47 PM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 8152; Name = )
+  Extended Properties: 
+
+11/16/2018 12:01:47 PM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 8152; Name = )
+  Extended Properties: 
+

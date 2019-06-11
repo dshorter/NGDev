@@ -1,0 +1,839 @@
+2/4/2019 3:13:43 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 4256; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 4256; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 4256; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 4256; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 4256; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/5/2019 2:00:00 AM (10:46:16) 
+  Thread: (ID = 21592; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:44 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 21592; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:46 PM hmis2eidss (EIDSS.HMIS2EIDSS  Error) 
+  Message: Login to HMIS is failed 
+  Thread: (ID = 21592; Name = )
+  Extended Properties: 
+
+2/4/2019 3:13:46 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 21592; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 11448; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 11448; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 11448; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 11448; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 11448; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/5/2019 2:00:00 AM (10:44:58) 
+  Thread: (ID = 25076; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:02 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 25076; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:04 PM hmis2eidss (EIDSS.HMIS2EIDSS  Error) 
+  Message: Login to HMIS is failed 
+  Thread: (ID = 25076; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:04 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 25076; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 18096; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 18096; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 18096; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 18096; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 18096; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/5/2019 2:00:00 AM (10:44:06) 
+  Thread: (ID = 11604; Name = )
+  Extended Properties: 
+
+2/4/2019 3:15:54 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 11604; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:23 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 2500; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 2500; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 2500; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 2500; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 2500; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/6/2019 2:00:00 AM (10:11:36) 
+  Thread: (ID = 20516; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:24 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 20516; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:25 PM hmis2eidss (EIDSS.HMIS2EIDSS  Error) 
+  Message: Login to HMIS is failed 
+  Thread: (ID = 20516; Name = )
+  Extended Properties: 
+
+2/5/2019 3:48:25 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 20516; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:57 AM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 21000; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 21000; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 21000; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 21000; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 21000; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/9/2019 2:00:00 AM (16:52:02) 
+  Thread: (ID = 46268; Name = )
+  Extended Properties: 
+
+2/8/2019 9:07:58 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 46268; Name = )
+  Extended Properties: 
+
+2/8/2019 9:08:06 AM Input string was not in a correct format. (EIDSS.HMIS2EIDSS  Error) 
+  Message: Input string was not in a correct format. 
+  Thread: (ID = 46268; Name = )
+  Extended Properties: Exception - An exception of type 'System.FormatException' occurred and was caught.
+----------------------------------------------------------------------
+02/08/2019 09:08:06
+Type : System.FormatException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Input string was not in a correct format.
+Source : mscorlib
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+HResult : -2146233033
+Stack Trace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at hmis2eidss.service.CaseData.TestCases.GetData() in C:\NGDev\EIDSS61\hmis2eidss.service\CaseData\TestCases.cs:line 189
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 115
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 2/8/2019 2:08:06 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+
+
+2/8/2019 9:08:06 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 46268; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 47844; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 47844; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 47844; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 47844; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 47844; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/9/2019 2:00:00 AM (16:49:41) 
+  Thread: (ID = 36908; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:19 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 36908; Name = )
+  Extended Properties: 
+
+2/8/2019 9:10:26 AM Input string was not in a correct format. (EIDSS.HMIS2EIDSS  Error) 
+  Message: Input string was not in a correct format. 
+  Thread: (ID = 36908; Name = )
+  Extended Properties: Exception - An exception of type 'System.FormatException' occurred and was caught.
+----------------------------------------------------------------------
+02/08/2019 09:10:26
+Type : System.FormatException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Input string was not in a correct format.
+Source : mscorlib
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void StringToNumber(System.String, System.Globalization.NumberStyles, NumberBuffer ByRef, System.Globalization.NumberFormatInfo, Boolean)
+HResult : -2146233033
+Stack Trace :    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at hmis2eidss.service.CaseData.TestCases.GetData() in C:\NGDev\EIDSS61\hmis2eidss.service\CaseData\TestCases.cs:line 189
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 115
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 2/8/2019 2:10:26 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+
+
+2/8/2019 9:10:26 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 36908; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 48728; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 48728; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 48728; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 48728; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 48728; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/9/2019 2:00:00 AM (16:48:17) 
+  Thread: (ID = 47292; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:43 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 47292; Name = )
+  Extended Properties: 
+
+2/8/2019 9:11:50 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Found 3 cases 
+  Thread: (ID = 47292; Name = )
+  Extended Properties: 
+
+2/8/2019 9:12:21 AM Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified. (EIDSS.HMIS2EIDSS  Error) 
+  Message: Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified. 
+  Thread: (ID = 47292; Name = )
+  Extended Properties: Exception - An exception of type 'System.IO.FileNotFoundException' occurred and was caught.
+-------------------------------------------------------------------------------
+02/08/2019 09:12:21
+Type : System.IO.FileNotFoundException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified.
+Source : mscorlib
+Help link : 
+FileName : file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll
+FusionLog : WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Reflection.RuntimeAssembly _nLoad(System.Reflection.AssemblyName, System.String, System.Security.Policy.Evidence, System.Reflection.RuntimeAssembly, System.Threading.StackCrawlMark ByRef, IntPtr, Boolean, Boolean, Boolean)
+HResult : -2147024894
+Stack Trace :    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at eidss.model.Core.Customization.get_Instance() in C:\NGDev\EIDSS61\eidss.model\Core\Customization.cs:line 22
+   at eidss.model.Schema.Patient.<>c.<get_strName>b__312_0(Patient c) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 1417
+   at BLToolkit.Data.DbManager.CreateParameters(Object obj, String[] outputParameters, String[] inputOutputParameters, String[] ignoreParameters, IDbDataParameter[] commandParameters) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 1176
+   at eidss.model.Schema.Patient.BLToolkitExtension.Accessor._post(DbManagerProxy manager, Patient obj)
+   at eidss.model.Schema.Patient.Accessor._PostNonTransaction(DbManagerProxy manager, Patient obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 3072
+   at eidss.model.Schema.Patient.Accessor.Post(DbManagerProxy manager, IObject obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 3065
+   at eidss.model.Schema.HumanCase.Accessor._PostNonTransaction(DbManagerProxy manager, HumanCase obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\HumanCase.model.cs:line 8626
+   at eidss.model.Schema.HumanCase.Accessor.Post(DbManagerProxy manager, IObject obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\HumanCase.model.cs:line 8509
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessageAndDiagnosis(DbManagerProxy manager, List`1 cases, CaseContract cs, MessageContract message, DiagnosisContract diagnosis) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 607
+   at hmis2eidss.service.Import.Hmis2EidssImport.<>c__DisplayClass10_0.<ParseHmisMessage>b__0(DiagnosisContract c) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 187
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessage(DbManagerProxy manager, List`1 cases, CaseContract cs, MessageContract message) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 194
+   at hmis2eidss.service.Import.Hmis2EidssImport.<>c__DisplayClass9_0.<ParseHmisMessages>b__0(MessageContract c) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 180
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessages(DbManagerProxy manager, List`1 cases, CaseContract cs) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 181
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 125
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 2/8/2019 2:12:21 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+
+
+2/8/2019 9:12:21 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 47292; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 34288; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 34288; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 34288; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 34288; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 34288; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/9/2019 2:00:00 AM (16:46:30) 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:30 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:13:37 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Found 3 cases 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:14:08 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import for case 75973776-8cd5-4dca-9939-28a7bae3a508, diagnosis B05 is completed 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:14:14 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import for case fca39cb6-8739-4c80-b1dc-6c74c59a290f, diagnosis A23.3 is completed 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:14:20 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import for case 48a762c3-502c-489e-8514-7fe5312b4a60, diagnosis A22.1 is completed 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 9:14:20 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 35608; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 33664; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 33664; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 33664; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 33664; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 33664; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/9/2019 2:00:00 AM (12:52:18) 
+  Thread: (ID = 44944; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:42 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 44944; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:51 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Found 3 cases 
+  Thread: (ID = 44944; Name = )
+  Extended Properties: 
+
+2/8/2019 1:07:51 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 44944; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:57 AM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 42860; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 42860; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 42860; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 42860; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 42860; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 2/13/2019 2:00:00 AM (15:45:02) 
+  Thread: (ID = 24448; Name = )
+  Extended Properties: 
+
+2/12/2019 10:14:58 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 24448; Name = )
+  Extended Properties: 
+
+2/12/2019 10:15:04 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Found 23 cases 
+  Thread: (ID = 24448; Name = )
+  Extended Properties: 
+
+2/12/2019 10:15:32 AM Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified. (EIDSS.HMIS2EIDSS  Error) 
+  Message: Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified. 
+  Thread: (ID = 24448; Name = )
+  Extended Properties: Exception - An exception of type 'System.IO.FileNotFoundException' occurred and was caught.
+-------------------------------------------------------------------------------
+02/12/2019 10:15:32
+Type : System.IO.FileNotFoundException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Could not load file or assembly 'file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll' or one of its dependencies. The system cannot find the file specified.
+Source : mscorlib
+Help link : 
+FileName : file:///C:\NGDev\EIDSS61\hmis2eidss.service\bin\Release\eidss.model.customization.dll
+FusionLog : WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Reflection.RuntimeAssembly _nLoad(System.Reflection.AssemblyName, System.String, System.Security.Policy.Evidence, System.Reflection.RuntimeAssembly, System.Threading.StackCrawlMark ByRef, IntPtr, Boolean, Boolean, Boolean)
+HResult : -2147024894
+Stack Trace :    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   at eidss.model.Core.Customization.get_Instance() in C:\NGDev\EIDSS61\eidss.model\Core\Customization.cs:line 22
+   at eidss.model.Schema.Patient.<>c.<get_strName>b__312_0(Patient c) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 1417
+   at BLToolkit.Data.DbManager.CreateParameters(Object obj, String[] outputParameters, String[] inputOutputParameters, String[] ignoreParameters, IDbDataParameter[] commandParameters) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 1176
+   at eidss.model.Schema.Patient.BLToolkitExtension.Accessor._post(DbManagerProxy manager, Patient obj)
+   at eidss.model.Schema.Patient.Accessor._PostNonTransaction(DbManagerProxy manager, Patient obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 3072
+   at eidss.model.Schema.Patient.Accessor.Post(DbManagerProxy manager, IObject obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\Patient.model.cs:line 3065
+   at eidss.model.Schema.HumanCase.Accessor._PostNonTransaction(DbManagerProxy manager, HumanCase obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\HumanCase.model.cs:line 8626
+   at eidss.model.Schema.HumanCase.Accessor.Post(DbManagerProxy manager, IObject obj, Boolean bChildObject) in C:\NGDev\EIDSS61\eidss.model\Schema\HumanCase.model.cs:line 8509
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessageAndDiagnosis(DbManagerProxy manager, List`1 cases, CaseContract cs, MessageContract message, DiagnosisContract diagnosis) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 607
+   at hmis2eidss.service.Import.Hmis2EidssImport.<>c__DisplayClass10_0.<ParseHmisMessage>b__0(DiagnosisContract c) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 187
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessage(DbManagerProxy manager, List`1 cases, CaseContract cs, MessageContract message) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 194
+   at hmis2eidss.service.Import.Hmis2EidssImport.<>c__DisplayClass9_0.<ParseHmisMessages>b__0(MessageContract c) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 180
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.ParseHmisMessages(DbManagerProxy manager, List`1 cases, CaseContract cs) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 181
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 125
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 2/12/2019 3:15:32 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+
+
+2/12/2019 10:15:32 AM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 24448; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:24 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 31420; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 31420; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 31420; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 31420; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 31420; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 4/5/2019 2:00:00 AM (11:50:35) 
+  Thread: (ID = 27160; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:25 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 27160; Name = )
+  Extended Properties: 
+
+4/4/2019 2:09:27 PM Login failed for user 'srvcEIDSSAJ'. (EIDSS.HMIS2EIDSS  Error) 
+  Message: Login failed for user 'srvcEIDSSAJ'. 
+  Thread: (ID = 27160; Name = )
+  Extended Properties: Exception - An exception of type 'bv.model.Model.Core.DbModelException' occurred and was caught.
+------------------------------------------------------------------------------------
+04/04/2019 14:09:27
+Type : bv.model.Model.Core.DbModelException, bv.model, Version=6.1.0.42, Culture=neutral, PublicKeyToken=null
+Message : Login failed for user 'srvcEIDSSAJ'.
+Source : hmis2eidss.service
+Help link : 
+MessageId : 
+Obj : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Collections.Generic.List`1[hmis2eidss.service.Schema.HmisDiagnosisLookup] _SelectListInternal(bv.model.BLToolkit.DbManagerProxy, on_action, on_action)
+HResult : -2146232832
+Stack Trace :    at hmis2eidss.service.Schema.HmisDiagnosisLookup.Accessor._SelectListInternal(DbManagerProxy manager, on_action loading, on_action loaded) in C:\NGDev\EIDSS61\hmis2eidss.service\Schema\HmisDiagnosisLookup.model.cs:line 776
+   at hmis2eidss.service.Schema.HmisDiagnosisLookup.BLToolkitExtension.Accessor._SelectListInternal(DbManagerProxy manager, on_action loading, on_action loaded)
+   at hmis2eidss.service.Schema.HmisDiagnosisLookup.Accessor.SelectLookupList(DbManagerProxy manager) in C:\NGDev\EIDSS61\hmis2eidss.service\Schema\HmisDiagnosisLookup.model.cs:line 711
+   at hmis2eidss.service.Import.Hmis2EidssImport.get_ICD10Codes() in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 163
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 112
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 4/4/2019 6:09:27 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+	Inner Exception
+	---------------
+	Type : BLToolkit.Data.DataException, BLToolkit.4, Version=3.2.0.0, Culture=neutral, PublicKeyToken=b1d3f6ab3aadaca3
+	Message : Login failed for user 'srvcEIDSSAJ'.
+	Source : BLToolkit.4
+	Help link : 
+	Number : 18456
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : Void OnOperationException(BLToolkit.Data.OperationType, BLToolkit.Data.DataException)
+	HResult : -2146233087
+	Stack Trace :    at BLToolkit.Data.DbManager.OnOperationException(OperationType op, DataException ex) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 577
+	   at BLToolkit.Data.DbManager.ExecuteOperation(OperationType operationType, Action operation) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 4333
+	   at BLToolkit.Data.DbManager.OpenConnection() in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 203
+	   at BLToolkit.Data.DbManager.get_Connection() in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 178
+	   at BLToolkit.Data.DbManager.OnInitCommand(IDbCommand command) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 448
+	   at bv.model.BLToolkit.DbManagerProxy.OnInitCommand(IDbCommand command) in C:\NGDev\EIDSS61\bv.model\BLToolkit\DbManagerProxy.cs:line 170
+	   at BLToolkit.Data.DbManager.Parameter(ParameterDirection parameterDirection, String parameterName, Object value) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 1530
+	   at hmis2eidss.service.Schema.HmisDiagnosisLookup.Accessor._SelectListInternal(DbManagerProxy manager, on_action loading, on_action loaded) in C:\NGDev\EIDSS61\hmis2eidss.service\Schema\HmisDiagnosisLookup.model.cs:line 755
+
+		Inner Exception
+		---------------
+		Type : System.Data.SqlClient.SqlException, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+		Message : Login failed for user 'srvcEIDSSAJ'.
+		Source : .Net SqlClient Data Provider
+		Help link : 
+		Errors : System.Data.SqlClient.SqlErrorCollection
+		ClientConnectionId : 438b3818-f093-4ec5-a948-c9ccc33084e8
+		Class : 14
+		LineNumber : 65536
+		Number : 18456
+		Procedure : 
+		Server : 192.255.51.92\NGSQL08dev
+		State : 1
+		ErrorCode : -2146232060
+		Data : System.Collections.ListDictionaryInternal
+		TargetSite : Boolean TryGetConnection(System.Data.Common.DbConnection, UInt32, Boolean, Boolean, System.Data.Common.DbConnectionOptions, System.Data.ProviderBase.DbConnectionInternal ByRef)
+		HResult : -2146232060
+		Stack Trace :    at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+		   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+		   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+		   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+		   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+		   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+		   at System.Data.SqlClient.SqlConnection.Open()
+		   at BLToolkit.Data.DbManager.ExecuteOperation(OperationType operationType, Action operation) in C:\NGDev\EIDSS61\bltoolkit.3.2.dev\Data\DbManager.cs:line 4328
+
+
+
+4/4/2019 2:09:27 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 27160; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:32 PM WCF Service Host (EIDSS.HMIS2EIDSS  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 20816; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: HMIS2EIDSS Scheduler started with configuration: 
+schedulerEnabled=True, 
+                        timeOfSchedulerRuns=02:00:00, 
+                        immediatelyRunSchedulerWhenServiceStarts=True, 
+                        secondsBetweenSchedulerTasks=600 sec  
+  Thread: (ID = 20816; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 20816; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM WCF Service Host (EIDSS.HMIS2EIDSS  Information) 
+  Message: Scheduler started. 
+  Thread: (ID = 20816; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM EIDSS Windows Service (EIDSS.HMIS2EIDSS  Information) 
+  Message: Press Enter to stop Service. 
+  Thread: (ID = 20816; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Next start in 4/5/2019 2:00:00 AM (11:47:27) 
+  Thread: (ID = 21904; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:33 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is started 
+  Thread: (ID = 21904; Name = )
+  Extended Properties: 
+
+4/4/2019 2:12:40 PM Sorry, we couldn't find C:\HMISTest\HMISTestData.xlsx. Is it possible it was moved, renamed or deleted? (EIDSS.HMIS2EIDSS  Error) 
+  Message: Sorry, we couldn't find C:\HMISTest\HMISTestData.xlsx. Is it possible it was moved, renamed or deleted? 
+  Thread: (ID = 21904; Name = )
+  Extended Properties: Exception - An exception of type 'System.Runtime.InteropServices.COMException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+04/04/2019 14:12:40
+Type : System.Runtime.InteropServices.COMException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Sorry, we couldn't find C:\HMISTest\HMISTestData.xlsx. Is it possible it was moved, renamed or deleted?
+Source : Microsoft Excel
+Help link : xlmain11.chm
+ErrorCode : -2146827284
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Microsoft.Office.Interop.Excel.Workbook Open(System.String, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object, System.Object)
+HResult : -2146827284
+Stack Trace :    at Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)
+   at hmis2eidss.service.CaseData.TestCases.LoadData() in C:\NGDev\EIDSS61\hmis2eidss.service\CaseData\TestCases.cs:line 26
+   at hmis2eidss.service.CaseData.TestCases.GetData() in C:\NGDev\EIDSS61\hmis2eidss.service\CaseData\TestCases.cs:line 72
+   at hmis2eidss.service.Import.Hmis2EidssImport.Import(TraceHelper tracer) in C:\NGDev\EIDSS61\hmis2eidss.service\Import\Hmis2EidssImport.cs:line 116
+
+Additional Info:
+
+MachineName : DESKTOP-I7GLVAK
+TimeStamp : 4/4/2019 6:12:40 PM
+FullName : Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=null
+AppDomainName : hmis2eidss.service.exe
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-I7GLVAK\LDKing
+
+
+4/4/2019 2:12:40 PM hmis2eidss (EIDSS.HMIS2EIDSS  Information) 
+  Message: Import is finished 
+  Thread: (ID = 21904; Name = )
+  Extended Properties: 
+

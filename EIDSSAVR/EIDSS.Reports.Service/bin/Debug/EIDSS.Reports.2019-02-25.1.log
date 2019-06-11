@@ -1,0 +1,50 @@
+1/22/2019 11:20:35 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 7944; Name = )
+  Extended Properties: 
+
+1/22/2019 11:20:38 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 7944; Name = )
+  Extended Properties: 
+
+1/22/2019 11:20:58 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 7944; Name = )
+  Extended Properties: 
+
+1/22/2019 11:21:10 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 7944; Name = )
+  Extended Properties: 
+
+1/22/2019 11:21:10 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 7944; Name = )
+  Extended Properties: 
+
+1/23/2019 7:07:15 AM WCF Service Host (EIDSS.Reports  Verbose) 
+  Message: EIDSS core initialized. 
+  Thread: (ID = 7872; Name = )
+  Extended Properties: 
+
+1/23/2019 7:07:18 AM Data Adapter (EIDSS.Reports  Verbose) 
+  Message: Database 'EIDSS_TH' connection checked. 
+  Thread: (ID = 7872; Name = )
+  Extended Properties: 
+
+1/23/2019 7:07:35 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Configured at URL http://localhost:8097/ 
+  Thread: (ID = 7872; Name = )
+  Extended Properties: 
+
+1/23/2019 7:07:43 AM WCF Service Host (EIDSS.Reports  Information) 
+  Message: Service Host Opened 
+  Thread: (ID = 7872; Name = )
+  Extended Properties: 
+
+1/23/2019 7:07:43 AM EIDSS Windows Service (EIDSS.Reports  Information) 
+  Message: Reports Service Started. 
+  Thread: (ID = 7872; Name = )
+  Extended Properties: 
+

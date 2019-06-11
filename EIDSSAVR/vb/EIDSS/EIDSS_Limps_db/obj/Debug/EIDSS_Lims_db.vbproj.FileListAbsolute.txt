@@ -1,0 +1,8 @@
+C:\NGDev\EIDSS61\eidss.main\bin\Debug\eidss_lims_db.dll
+C:\NGDev\EIDSS61\eidss.main\bin\Debug\eidss_lims_db.pdb
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\eidss_lims_db.dll.licenses
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\eidss_lims_db.dll
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\eidss_lims_db.pdb
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\EIDSS_Lims_db.vbprojAssemblyReference.cache
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\EIDSS_Lims_db.vbproj.CoreCompileInputs.cache
+C:\NGDev\EIDSS61\vb\EIDSS\EIDSS_Limps_db\obj\Debug\EIDSS_Lims_db.vbproj.CopyComplete
