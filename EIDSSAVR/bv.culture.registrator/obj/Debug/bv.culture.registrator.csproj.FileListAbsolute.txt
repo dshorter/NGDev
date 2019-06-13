@@ -1,6 +1,0 @@
-C:\NGDev\EIDSS61\bv.culture.registrator\bin\Debug\bv.culture.registrator.exe.config
-C:\NGDev\EIDSS61\bv.culture.registrator\bin\Debug\bv.culture.registrator.exe
-C:\NGDev\EIDSS61\bv.culture.registrator\bin\Debug\bv.culture.registrator.pdb
-C:\NGDev\EIDSS61\bv.culture.registrator\obj\Debug\bv.culture.registrator.exe
-C:\NGDev\EIDSS61\bv.culture.registrator\obj\Debug\bv.culture.registrator.pdb
-C:\NGDev\EIDSS61\bv.culture.registrator\obj\Debug\bv.culture.registrator.csproj.CoreCompileInputs.cache

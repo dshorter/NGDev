@@ -1,8 +1,0 @@
-Version   : v4.0.30319
-CLR Header: 2.5
-PE        : PE32
-CorFlags  : 0x1
-ILONLY    : 1
-32BITREQ  : 0
-32BITPREF : 0
-Signed    : 0

@@ -1,3 +1,0 @@
-﻿@model eidss.model.Schema.AggregateCaseHeader
-
-@Html.Action("ShowFlexibleForm", "FlexibleForm", new { root = Model.idfAggrCase, key = Model.idfAggrCase, ffpresenterId = Model.FFPresenterDiagnostic.CurrentObservation.Value, readOnly = Model.GetPermissions().IsReadOnlyForEdit, isVetAggrCase = true })

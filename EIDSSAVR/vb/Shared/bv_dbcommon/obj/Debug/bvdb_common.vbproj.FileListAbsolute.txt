@@ -1,7 +1,0 @@
-C:\NGDev\EIDSS61\eidss.main\bin\Debug\bvdb_common.dll
-C:\NGDev\EIDSS61\eidss.main\bin\Debug\bvdb_common.pdb
-C:\NGDev\EIDSS61\vb\Shared\bv_dbcommon\obj\Debug\bvdb_common.vbprojAssemblyReference.cache
-C:\NGDev\EIDSS61\vb\Shared\bv_dbcommon\obj\Debug\bvdb_common.vbproj.CoreCompileInputs.cache
-C:\NGDev\EIDSS61\vb\Shared\bv_dbcommon\obj\Debug\bvdb_common.vbproj.CopyComplete
-C:\NGDev\EIDSS61\vb\Shared\bv_dbcommon\obj\Debug\bvdb_common.dll
-C:\NGDev\EIDSS61\vb\Shared\bv_dbcommon\obj\Debug\bvdb_common.pdb
