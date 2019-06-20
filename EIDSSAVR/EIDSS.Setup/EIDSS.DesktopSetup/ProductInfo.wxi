@@ -6,7 +6,7 @@
   <?endif?>
 
   <?if $(var.Platform) = x86?>
-  <?define UpgradeCode = {3DD6285D-679B-42C0-B26F-259BA2DB9D1E}?>
+  <?define UpgradeCode = {43022B42-D308-42A2-B608-84C84A563632}?>
   <?endif?>
   
   <?define ProductNameAbbreviation = $(var.ProductFamilyAbbreviation)?>

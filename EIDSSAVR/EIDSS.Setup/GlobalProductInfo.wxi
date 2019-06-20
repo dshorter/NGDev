@@ -13,11 +13,11 @@
   <?define Win64 = yes?>
   <?endif?>
 
-  <?define ManufacturerAbbreviation = B&V?>
-  <?define Manufacturer = "Black & Veatch"?>
-  <?define ManufacturerFullName = "$(var.Manufacturer) Special Projects Corp"?>
-  <?define ProductFamilyAbbreviation = EIDSS?>
-  <?define ProductFamilyName = "Electronic Integrated Disease Surveillance System"?>
+  <?define ManufacturerAbbreviation = NGC?>
+  <?define Manufacturer = "Northrop Grumman"?>
+  <?define ManufacturerFullName = "$(var.Manufacturer) Corp"?>
+  <?define ProductFamilyAbbreviation = AVR?>
+  <?define ProductFamilyName = "EIDSS Analysis, Visualization, and Reporting"?>
 
   <?define ProductFamilyRegistryKey = SOFTWARE\$(var.ManufacturerAbbreviation)\$(var.ProductFamilyAbbreviation)\$(var.MajorVersion).$(var.MinorVersion) ?>
 

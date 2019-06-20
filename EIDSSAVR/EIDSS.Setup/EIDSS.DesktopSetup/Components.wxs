@@ -55,7 +55,7 @@
 
           <Shortcut
             Id="DesktopShortcut"
-            Name="$(var.ProductNameAbbreviation) $(var.MajorVersion).$(var.MinorVersion)"
+            Name="$(var.ProductNameAbbreviation) 7.0"
             Description="$(var.ProductFullName)"
             Directory="DesktopFolder"
             Icon="eidss.main.exe"
