@@ -7,7 +7,7 @@
     <ProjectGuid>ebb2bb27-f5be-4fc7-b84e-f7ebeb990795</ProjectGuid>
     <SchemaVersion>2.0</SchemaVersion>
     <Name>Setup.EIDSS.Desktop</Name>
-    <OutputName>EIDSS</OutputName>
+    <OutputName>AVR</OutputName>
     <OutputType>Package</OutputType>
     <WixTargetsPath Condition=" '$(WixTargetsPath)' == '' AND '$(MSBuildExtensionsPath32)' != '' ">$(MSBuildExtensionsPath32)\Microsoft\WiX\v3.x\Wix.targets</WixTargetsPath>
     <WixTargetsPath Condition=" '$(WixTargetsPath)' == '' ">$(MSBuildExtensionsPath)\Microsoft\WiX\v3.x\Wix.targets</WixTargetsPath>

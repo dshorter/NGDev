@@ -15,8 +15,8 @@
   <String Id="LogFileText" Overridable="yes" Localizable="yes">Show log file</String>
   <String Id="ExitDialogOptionalCheckBoxText" Overridable="yes" Localizable="yes"></String>
 
-  <String Id="DesktopFeature" Overridable="yes" Localizable="yes">EIDSS Desktop</String>
-  <String Id="DesktopFeatureDescription" Overridable="yes" Localizable="yes">EIDSS Desktop components</String>
+  <String Id="DesktopFeature" Overridable="yes" Localizable="yes">AVR Desktop</String>
+  <String Id="DesktopFeatureDescription" Overridable="yes" Localizable="yes">AVR Desktop components</String>
 
   <String Id="WHOFeature" Overridable="yes" Localizable="yes">WHO</String>
   <String Id="WHOFeatureDescription" Overridable="yes" Localizable="yes">WHO module components</String>

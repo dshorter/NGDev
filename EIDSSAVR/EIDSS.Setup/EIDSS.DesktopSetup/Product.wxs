@@ -63,7 +63,7 @@
       Display="expand"
       ConfigurableDirectory="APPLICATIONFOLDER">
 
-      <Feature
+      <!--<Feature
         Id="WHO"
         Title="!(loc.WHOFeature)"
         Description="!(loc.WHOFeatureDescription)"
@@ -73,7 +73,7 @@
         Display="expand">
 
         <ComponentGroupRef Id="who.components" />
-      </Feature>
+      </Feature>-->
 
       <ComponentGroupRef Id="eidss.components" />
     </Feature>
