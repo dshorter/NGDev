@@ -34,6 +34,7 @@ namespace eidss.model.Core
 		}
 		public static bool WriteToEventLogDB(object userID, SecurityAuditEvent action, bool success, string alternativeMessage, string errString, string description, SecurityAuditProcessType processType)
 		{
+           // return true;
 			if (EidssUserContext.User.IsAuthenticated)
 			{
 

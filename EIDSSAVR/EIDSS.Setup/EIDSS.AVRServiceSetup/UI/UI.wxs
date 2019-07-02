@@ -90,11 +90,14 @@ Patch dialog sequence:
 
       <Publish Dialog="ArchiveDbSettingsDlg$(var.num)" Control="Back" Event="NewDialog" Value="DbSettingsDlg">1</Publish>
       <Publish Dialog="ArchiveDbSettingsDlg$(var.num)" Control="Next" Event="NewDialog" Value="SelectAvrDbDeploymentTypeDlg" Order="100">
+      
+      </Publish>
+      <!--<Publish Dialog="ArchiveDbSettingsDlg$(var.num)" Control="Next" Event="NewDialog" Value="SelectAvrDbDeploymentTypeDlg" Order="100">
         <![CDATA[DB_MANAGER_ARCHIVE And (SKIP_VALIDATE_CONNECTION Or ArchDbConnection_Valid = "1" Or ALLOWCONNECTION$(var.num) <> "1")]]>
-      </Publish>
-      <Publish Dialog="ArchiveDbSettingsDlg$(var.num)" Control="Next" Event="NewDialog" Value="AvrDbSettingsDlg" Order="101">
+      </Publish>-->
+      <!--<Publish Dialog="ArchiveDbSettingsDlg$(var.num)" Control="Next" Event="NewDialog" Value="AvrDbSettingsDlg" Order="101">
         <![CDATA[Not DB_MANAGER_ARCHIVE And (SKIP_VALIDATE_CONNECTION Or ArchDbConnection_Valid = "1" Or ALLOWCONNECTION$(var.num) <> "1")]]>
-      </Publish>
+      </Publish>-->
 
       <Publish Dialog="AvrDbSettingsDlg$(var.num)" Control="Back" Event="NewDialog" Value="SelectAvrDbDeploymentTypeDlg">DB_MANAGER_ARCHIVE</Publish>
       <Publish Dialog="AvrDbSettingsDlg$(var.num)" Control="Back" Event="NewDialog" Value="ArchiveDbSettingsDlg">Not DB_MANAGER_ARCHIVE</Publish>
