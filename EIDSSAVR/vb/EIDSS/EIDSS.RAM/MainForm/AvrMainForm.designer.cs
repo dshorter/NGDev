@@ -19,9 +19,10 @@ namespace eidss.avr.MainForm
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AvrMainForm));
             this.QueryLayoutTree = new eidss.avr.QueryLayoutTree.QueryLayoutTreePanel();
-            this.barManager = new DevExpress.XtraBars.BarManager();
+            this.barManager = new DevExpress.XtraBars.BarManager(this.components);
             this.barTools = new DevExpress.XtraBars.Bar();
             this.bbNewQuery = new DevExpress.XtraBars.BarButtonItem();
             this.bbNewLayout = new DevExpress.XtraBars.BarButtonItem();
@@ -40,6 +41,7 @@ namespace eidss.avr.MainForm
             this.biViewQueryLayoutFolder = new DevExpress.XtraBars.BarButtonItem();
             this.biDeleteQueryLayoutFolder = new DevExpress.XtraBars.BarButtonItem();
             this.biCopyQueryLayout = new DevExpress.XtraBars.BarButtonItem();
+            this.biRefreshData = new DevExpress.XtraBars.BarButtonItem();
             this.biPublishQueryLayoutFolder = new DevExpress.XtraBars.BarButtonItem();
             this.biUnpublishQueryLayoutFolder = new DevExpress.XtraBars.BarButtonItem();
             this.biExit = new DevExpress.XtraBars.BarButtonItem();
@@ -66,7 +68,7 @@ namespace eidss.avr.MainForm
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
-            this.imageCollectionToolBar = new DevExpress.Utils.ImageCollection();
+            this.imageCollectionToolBar = new DevExpress.Utils.ImageCollection(this.components);
             this.bbEditCaption = new DevExpress.XtraBars.BarButtonItem();
             this.bbCopyField = new DevExpress.XtraBars.BarButtonItem();
             this.bbDeleteCopyField = new DevExpress.XtraBars.BarButtonItem();
@@ -83,19 +85,18 @@ namespace eidss.avr.MainForm
             this.bbPopupCopyQueryLayout = new DevExpress.XtraBars.BarButtonItem();
             this.bbEditMissedValues = new DevExpress.XtraBars.BarButtonItem();
             this.bbPopupViewQueryLayoutFolder = new DevExpress.XtraBars.BarButtonItem();
-            this.PivotPopupMenu = new DevExpress.XtraBars.PopupMenu();
-            this.DeleteQueryLayoutTimer = new System.Windows.Forms.Timer();
-            this.CloseQueryLayoutTimer = new System.Windows.Forms.Timer();
-            this.CopyLayoutTimer = new System.Windows.Forms.Timer();
-            this.NewLayoutTimer = new System.Windows.Forms.Timer();
-            this.CloseTimer = new System.Windows.Forms.Timer();
+            this.bbRefreshData = new DevExpress.XtraBars.BarButtonItem();
+            this.PivotPopupMenu = new DevExpress.XtraBars.PopupMenu(this.components);
+            this.DeleteQueryLayoutTimer = new System.Windows.Forms.Timer(this.components);
+            this.CloseQueryLayoutTimer = new System.Windows.Forms.Timer(this.components);
+            this.CopyLayoutTimer = new System.Windows.Forms.Timer(this.components);
+            this.NewLayoutTimer = new System.Windows.Forms.Timer(this.components);
+            this.CloseTimer = new System.Windows.Forms.Timer(this.components);
             this.TabControl = new DevExpress.XtraTab.XtraTabControl();
             this.TabPageTree = new DevExpress.XtraTab.XtraTabPage();
             this.TabPageEditor = new DevExpress.XtraTab.XtraTabPage();
             this.EditorPanel = new DevExpress.XtraEditors.PanelControl();
-            this.TreePopupMenu = new DevExpress.XtraBars.PopupMenu();
-            this.bbRefreshData = new DevExpress.XtraBars.BarButtonItem();
-            this.biRefreshData = new DevExpress.XtraBars.BarButtonItem();
+            this.TreePopupMenu = new DevExpress.XtraBars.PopupMenu(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.barManager)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollectionToolBar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PivotPopupMenu)).BeginInit();
@@ -407,6 +408,14 @@ namespace eidss.avr.MainForm
             this.biCopyQueryLayout.ItemAppearance.Normal.Options.UseFont = true;
             this.biCopyQueryLayout.Name = "biCopyQueryLayout";
             this.biCopyQueryLayout.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.biCopyQueryLayout_ItemClick);
+            // 
+            // biRefreshData
+            // 
+            resources.ApplyResources(this.biRefreshData, "biRefreshData");
+            this.biRefreshData.Id = 98;
+            this.biRefreshData.ImageIndex = 85;
+            this.biRefreshData.Name = "biRefreshData";
+            this.biRefreshData.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.biRefreshData_ItemClick);
             // 
             // biPublishQueryLayoutFolder
             // 
@@ -856,6 +865,14 @@ namespace eidss.avr.MainForm
             this.bbPopupViewQueryLayoutFolder.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
             this.bbPopupViewQueryLayoutFolder.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bbPopupViewQueryLayoutFolder_ItemClick);
             // 
+            // bbRefreshData
+            // 
+            resources.ApplyResources(this.bbRefreshData, "bbRefreshData");
+            this.bbRefreshData.Id = 97;
+            this.bbRefreshData.ImageIndex = 85;
+            this.bbRefreshData.Name = "bbRefreshData";
+            this.bbRefreshData.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bbRefreshData_ItemClick);
+            // 
             // PivotPopupMenu
             // 
             this.PivotPopupMenu.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
@@ -902,14 +919,14 @@ namespace eidss.avr.MainForm
             // TabPageTree
             // 
             this.TabPageTree.Controls.Add(this.QueryLayoutTree);
-            this.TabPageTree.Name = "TabPageTree";
             resources.ApplyResources(this.TabPageTree, "TabPageTree");
+            this.TabPageTree.Name = "TabPageTree";
             // 
             // TabPageEditor
             // 
             this.TabPageEditor.Controls.Add(this.EditorPanel);
-            this.TabPageEditor.Name = "TabPageEditor";
             resources.ApplyResources(this.TabPageEditor, "TabPageEditor");
+            this.TabPageEditor.Name = "TabPageEditor";
             // 
             // EditorPanel
             // 
@@ -931,22 +948,6 @@ namespace eidss.avr.MainForm
             this.TreePopupMenu.Manager = this.barManager;
             this.TreePopupMenu.Name = "TreePopupMenu";
             // 
-            // bbRefreshData
-            // 
-            resources.ApplyResources(this.bbRefreshData, "bbRefreshData");
-            this.bbRefreshData.Id = 97;
-            this.bbRefreshData.ImageIndex = 85;
-            this.bbRefreshData.Name = "bbRefreshData";
-            this.bbRefreshData.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bbRefreshData_ItemClick);
-            // 
-            // biRefreshData
-            // 
-            resources.ApplyResources(this.biRefreshData, "biRefreshData");
-            this.biRefreshData.Id = 98;
-            this.biRefreshData.ImageIndex = 85;
-            this.biRefreshData.Name = "biRefreshData";
-            this.biRefreshData.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.biRefreshData_ItemClick);
-            // 
             // AvrMainForm
             // 
             this.Appearance.Options.UseFont = true;
@@ -960,11 +961,12 @@ namespace eidss.avr.MainForm
             this.DefaultFormState = System.Windows.Forms.FormWindowState.Normal;
             this.FormID = "R01";
             this.HelpTopicID = "AVR_Main_Window";
-            this.MinimumSize = new System.Drawing.Size(900, 600);
+            this.MinimumSize = new System.Drawing.Size(1350, 877);
             this.Name = "AvrMainForm";
             this.Sizable = true;
             this.Status = bv.common.win.FormStatus.Draft;
             this.Load += new System.EventHandler(this.AVRReportControl_Load);
+            //  this.VisibleChanged += new System.EventHandler(this.AvrMainForm_VisibleChanged);
             ((System.ComponentModel.ISupportInitialize)(this.barManager)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.imageCollectionToolBar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PivotPopupMenu)).EndInit();

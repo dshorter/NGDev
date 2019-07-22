@@ -86,13 +86,15 @@ namespace eidss.avr.MainForm
         {
             try
             {
-                Trace.WriteLine(Trace.Kind.Info, "AvrMainForm(): AvrMainForm creating...");
-                
+
+               //    this.OnHandleDestroyed +=  OnHandleDestroyed()
+              Trace.WriteLine(Trace.Kind.Info, "AvrMainForm(): AvrMainForm creating...");
+
                 m_Container = StructureMapContainerInit();
                 using (PresenterFactory.BeginSharedPresenterTransaction(m_Container, this))
                 {
                     m_SharedPresenter = PresenterFactory.SharedPresenter;
-                    m_AvrMainFormPresenter = (AvrMainFormPresenter) m_SharedPresenter[this];
+                    m_AvrMainFormPresenter = (AvrMainFormPresenter)m_SharedPresenter[this];
 
                     InitializeComponent();
                 }
@@ -138,11 +140,20 @@ namespace eidss.avr.MainForm
                 ErrorForm.ShowError(ex);
             }
         }
+
+        //protected override void OnHandleDestroyed(EventArgs e)
+        //{
+        //    MenuAction ma = MenuActionManager.Instance.File.Items[3] as MenuAction;
+        //    ma.Click(this, new EventArgs());
+
+        //    base.OnHandleDestroyed(e);
+        //}
+
         // todo [ivan] implement
         private static Container StructureMapContainerInit()
         {
             Container c = new Container();
-            c.Configure(r => { r.For<ITraceStrategy>().Use<EidssTraceStrategy>(); }); 
+            c.Configure(r => { r.For<ITraceStrategy>().Use<EidssTraceStrategy>(); });
             return c;
         }
 
@@ -327,7 +338,7 @@ namespace eidss.avr.MainForm
                 m_QueryOrLayoutParentId = null;
                 ChangeFormCaption();
 
-                
+
             }
         }
 
@@ -494,7 +505,7 @@ namespace eidss.avr.MainForm
                 if (!BaseFormManager.ArchiveMode)
                 {
                     new MenuAction(ShowMe, MenuActionManager.Instance, MenuActionManager.Instance.AVR,
-                        "MenuLaunchRAM", 1000, false, (int) MenuIconsSmall.LaunchAVR)
+                        "MenuLaunchRAM", 1000, false, (int)MenuIconsSmall.LaunchAVR)
                     {
                         Name = "btnRAM",
                         SelectPermission = PermissionHelper.SelectPermission(EIDSSPermissionObject.AVRReport)
@@ -580,7 +591,7 @@ namespace eidss.avr.MainForm
             {
                 using (CreateWaitDialog())
                 {
-                    var found = BaseFormManager.FindForm(typeof (AvrMainForm), null, CompareForm) as AvrMainForm;
+                    var found = BaseFormManager.FindForm(typeof(AvrMainForm), null, CompareForm) as AvrMainForm;
                     if (found == null)
                     {
                         object key = -1;
@@ -661,7 +672,7 @@ namespace eidss.avr.MainForm
                         object key = GetKey();
                         if (isPost && key is long)
                         {
-                            var id = (long) key;
+                            var id = (long)key;
                             AvrTreeElementType type = IsLayoutOpened
                                 ? AvrTreeElementType.Layout
                                 : AvrTreeElementType.Query;
@@ -882,11 +893,11 @@ namespace eidss.avr.MainForm
         {
             if (layoutDetail != null)
             {
-                QueryLayoutTree.SetTreeFocusedNodeByElementId((long) layoutDetail.GetKey());
+                QueryLayoutTree.SetTreeFocusedNodeByElementId((long)layoutDetail.GetKey());
             }
             else if (queryDetail != null)
             {
-                QueryLayoutTree.SetTreeFocusedNodeByElementId((long) queryDetail.GetKey());
+                QueryLayoutTree.SetTreeFocusedNodeByElementId((long)queryDetail.GetKey());
             }
 
             QueryLayoutTree_OnElementSelect(sender, QueryLayoutTree.GetTreeSelectedElementEventArgs());
@@ -1031,7 +1042,7 @@ namespace eidss.avr.MainForm
             Form parentForm = FindForm();
             if (parentForm != null)
             {
-                var resources = new ComponentResourceManager(typeof (AvrMainForm));
+                var resources = new ComponentResourceManager(typeof(AvrMainForm));
                 string baseCaption = resources.GetString("$this.Caption");
                 parentForm.Text = string.IsNullOrEmpty(newCaption)
                     ? baseCaption
@@ -1044,8 +1055,8 @@ namespace eidss.avr.MainForm
             DisposeQueryDetails();
             InitQueryDetail();
 
-           
-            object id = isNewObject ? null : (object) e.QueryId;
+
+            object id = isNewObject ? null : (object)e.QueryId;
             queryDetail.LoadData(ref id);
 
             DisposeLayoutDetails();
@@ -1054,10 +1065,10 @@ namespace eidss.avr.MainForm
 
         private void queryDetail_OnAfterPost(object sender, EventArgs e)
         {
-            
+
             if (queryDetail.DbService != null && queryDetail.DbService.ID is long)
             {
-                AvrMainFormPresenter.InvalidateQuery((long) queryDetail.DbService.ID);
+                AvrMainFormPresenter.InvalidateQuery((long)queryDetail.DbService.ID);
             }
         }
 
@@ -1082,7 +1093,7 @@ namespace eidss.avr.MainForm
             if (shouldLoad)
             {
                 InitLayoutDetail(isNewObject);
-                
+
             }
             else
             {
@@ -1090,7 +1101,7 @@ namespace eidss.avr.MainForm
             }
 
             DisposeQueryDetails();
-            
+
 
             if (shouldLoad)
             {
@@ -1120,7 +1131,7 @@ namespace eidss.avr.MainForm
 
         private void layoutDetail_OnAfterPost(object sender, EventArgs e)
         {
-           
+
             if (layoutDetail.DbService != null && layoutDetail.DbService.ID is long)
             {
                 AvrMainFormPresenter.InvalidateView((long)layoutDetail.DbService.ID);
@@ -1369,7 +1380,7 @@ namespace eidss.avr.MainForm
                     AvrTreeElementType type = IsLayoutOpened ? AvrTreeElementType.Layout : AvrTreeElementType.Query;
 
                     RaiseSendCommand(new QueryLayoutCommand(sender, operation));
-                    QueryLayoutTree.ReloadQueryLayoutFolder((long) GetKey(), type);
+                    QueryLayoutTree.ReloadQueryLayoutFolder((long)GetKey(), type);
                 }
             });
         }
@@ -1510,7 +1521,12 @@ namespace eidss.avr.MainForm
 
         private void biExit_ItemClick(object sender, ItemClickEventArgs e)
         {
+
             cmdClose_Click();
+
+            MenuAction ma = MenuActionManager.Instance.File.Items[3] as MenuAction;
+            ma.Click(this, new EventArgs());
+
         }
 
         private void MenuHandlerWrapper(Action action)
@@ -1646,7 +1662,7 @@ namespace eidss.avr.MainForm
             IAvrPivotGridField field = FieldFromArgsSingleOrDefault(e);
             if (field != null && e.Item is BarCheckItem)
             {
-                var item = (BarCheckItem) e.Item;
+                var item = (BarCheckItem)e.Item;
                 PivotGroupInterval? groupInterval = null;
                 bool containsCheckedItem = m_MenuGroupIntervals.ContainsKey(item);
                 if (containsCheckedItem)
@@ -1702,7 +1718,7 @@ namespace eidss.avr.MainForm
         private static IAvrPivotGridField FieldFromArgsSingleOrDefault(ItemClickEventArgs e)
         {
             return e.Item != null && !Utils.IsEmpty(e.Item.Tag) && (e.Item.Tag is IAvrPivotGridField)
-                ? (IAvrPivotGridField) e.Item.Tag
+                ? (IAvrPivotGridField)e.Item.Tag
                 : null;
         }
 
@@ -1750,12 +1766,22 @@ namespace eidss.avr.MainForm
             }
         }
 
+
         #endregion
 
-      
-        
         #region ITranslationView
 
         #endregion
+
+        //private void AvrMainForm_VisibleChanged(object sender, EventArgs e)
+        //{
+        //    if (this.Visible == false)
+        //    {
+        //        MenuAction ma = MenuActionManager.Instance.File.Items[3] as MenuAction;
+        //        ma.Click(this, new EventArgs());
+        //    }
+
+        //    BaseFormManager.Close(this);
+        //}
     }
 }

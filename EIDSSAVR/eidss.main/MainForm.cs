@@ -164,6 +164,7 @@ namespace eidss.main
             string[] files = Directory.GetFiles((WinUtils.AppPath()), "eidss.avr.dll"); //string[] files = Directory.GetFiles((WinUtils.AppPath()), "eidss*.dll");
             foreach (string file in files)
             {
+                // GAT - Step 1   
                 m_MenuManager.LoadAssemblyActions(file);
             }
             // m_MenuManager.LoadAssemblyActions(WinUtils.AppPath() + "\\eidss.main.exe"); //by agk 04/16/2019
@@ -627,7 +628,8 @@ namespace eidss.main
             //Splash.ShowSplash();
             if (!ReloadMenu())
                 return false;
-            Visible = true;
+            // GAT - don't show maih form    
+            // Visible = true;
             InitAutoLogoutMonitor();
 
             if (BaseSettings.ScanFormsMode)
@@ -987,45 +989,20 @@ namespace eidss.main
             Visible = false;
             //set record from journal
             UpdateMessenger.CreateRunningApps(ModelUserContext.ClientID, AppCode);
-            //TODO нужна ли эта проверка, если подключение к той же БД, что EIDSS
-            //if (UpdateMessenger.WasConnected)
-            //{
+         
             TimerUpdateListener.Enabled = true;
-            //}
+         
             if (Login() == false)
             {
                 return;
             }
-
-            //string commands = Microsoft.VisualBasic.Interaction.Command();
-            //Dbg.Debug("eidss is started with command line: {0}", commands);
-            //if (!Utils.IsEmpty(commands))
-            //{
-            //    string[] args = commands.Split(' '.ToString().ToCharArray());
-            //    foreach (string cmd in args)
-            //    {
-            //        switch (cmd.Substring(0, 2))
-            //        {
-            //            case "\\e":
-            //                try
-            //                {
-            //                    Nullable<long> eventID = Utils.ToNullableLong(cmd.Substring(2));
-            //                    if (eventID.HasValue)
-            //                    {
-            //                        EventList.ShowEventDetail(System.Convert.ToInt32(eventID));
-            //                    }
-            //                }
-            //                catch (Exception)
-            //                {
-            //                    ErrorForm.ShowError(new EIDSSErrorMessage("errFailToOpenEventDetail", "Fail to open EIDSS notification details."));
-            //                }
-            //                break;
-            //        }
-            //    }
-            //}
-
-
+      
             m_Loaded = true;
+            
+            //  Show AVR     
+            MenuAction ma = MenuActionManager.Instance.AVR.Items[0] as MenuAction;
+            ma.Click(this, new EventArgs());
+
         }
 
         /*
